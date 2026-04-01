@@ -65,15 +65,6 @@ Consolidar a base de Python para:
 
 ---
 
-## 🚀 Próximos Passos
-
-* Funções em Python
-* Manipulação de arquivos
-* Introdução ao Pandas
-* Projetos práticos com dados
-
----
-
 ### Todos os exercícios foram feitos com foco em:
 * Lógica clara
 * Código simples e legível
