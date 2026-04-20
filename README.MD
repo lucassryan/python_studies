@@ -6,7 +6,7 @@ Este repositório contém exercícios práticos focados nos fundamentos de Pytho
 
 ## Conteúdo Estudado
 
-### 🟩 Listas
+### Listas
 
 * Criação e manipulação de listas
 * Acesso a elementos
@@ -18,7 +18,7 @@ Este repositório contém exercícios práticos focados nos fundamentos de Pytho
 
 ---
 
-### 🟪 Tuplas
+### Tuplas
 
 * Criação de tuplas
 * Acesso por índice
@@ -30,7 +30,7 @@ Este repositório contém exercícios práticos focados nos fundamentos de Pytho
 
 ---
 
-### 🟨 Dicionários
+### Dicionários
 
 * Estrutura chave → valor
 * Acesso a dados
@@ -42,7 +42,7 @@ Este repositório contém exercícios práticos focados nos fundamentos de Pytho
 
 ---
 
-### 🟧 Conjuntos (Sets)
+### Conjuntos (Sets)
 
 * Criação de conjuntos
 * União, interseção e diferença
@@ -54,18 +54,6 @@ Este repositório contém exercícios práticos focados nos fundamentos de Pytho
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
-Consolidar a base de Python para:
-
-* Manipulação de dados
-* Lógica de programação
-* Preparação para bibliotecas como Pandas e NumPy
-* Evolução para projetos de Engenharia de Dados
-
----
-
-### Todos os exercícios foram feitos com foco em:
-* Lógica clara
-* Código simples e legível
-* Boas práticas iniciais
+Consolidar a base de Python.
